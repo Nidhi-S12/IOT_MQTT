@@ -1,4 +1,4 @@
-# IoT Assignment 1: MQTT Sensor Publisher/Subscriber
+# IoT: MQTT Sensor Publisher/Subscriber
 
 This project implements an IoT system using MicroPython on an ESP32 (or similar microcontroller) that connects to a Wi-Fi network, subscribes to an MQTT topic, publishes temperature and humidity data from a DHT11 sensor, and logs received messages to a CSV file.
 
@@ -70,4 +70,3 @@ This project implements an IoT system using MicroPython on an ESP32 (or similar 
 - Ensure `config.txt` has all required fields.
 - Verify Wi-Fi and MQTT broker connectivity.
 - Confirm DHT11 sensor is properly connected.</content>
-<parameter name="filePath">c:\Users\nidhi\OneDrive\Desktop\IOT\Assign1\README.md

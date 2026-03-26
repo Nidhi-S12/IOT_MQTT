@@ -59,7 +59,7 @@ This project implements an IoT system using MicroPython on an ESP32 (or similar 
 
 ## Notes
 
-- Student ID is hardcoded as "201938536" for digit sum calculation.
+- Student ID is hardcoded for digit sum calculation.
 - Topic format: `/sensor/{mac_address}/{unix_timestamp}/`
 - Client IDs include board ID and timestamp for uniqueness.
 - Program handles keyboard interrupts gracefully.
